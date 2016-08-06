@@ -17,6 +17,16 @@ Curated list of express.js resources
 - [Official website](http://expressjs.com) - Official website for express.js
 - [GitHub repository](https://github.com/expressjs/express) - express.js GitHub repository
 
+## Videos
+
+## Books
+
+## Articles
+
+## Courses
+
+## Tools
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
