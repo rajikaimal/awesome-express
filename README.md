@@ -6,6 +6,7 @@ Curated list of express.js resources
 
 # Contents 
 
+- [General](#general)
 - [Videos](#videos)
 - [Books](#books)
 - [Articles](#articles)
