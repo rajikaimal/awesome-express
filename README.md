@@ -18,14 +18,24 @@ Curated list of express.js resources
 - [GitHub repository](https://github.com/expressjs/express) - express.js GitHub repository
 
 ## Videos
+- [Tutorial series by Code School](https://www.youtube.com/watch?v=IjXAr5CJ2Ec)
+- [Tutorial by Derek Banas](https://www.youtube.com/watch?v=xDCKcNBFsuI)
+- [Express crash course](https://www.youtube.com/watch?v=aHqnFWLP7wA)
 
 ## Books
+- [Express in Action](https://www.manning.com/books/express-in-action)
+- [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
 
 ## Articles
+- [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
 
 ## Courses
+- [ExpressJS fundamentals](https://www.udemy.com/expressjs-fundamentals/)
+- [Projects in ExpressJS - Learn ExpressJs building 10 projects](https://www.udemy.com/projects-in-expressjs-learn-expressjs-building-10-projects/)
 
 ## Tools
+- [Express application generator](https://expressjs.com/en/starter/generator.html)
+- [Yeoman express generator - generator-express](https://github.com/petecoop/generator-express)
 
 ## License
 
