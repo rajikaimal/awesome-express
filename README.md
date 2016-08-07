@@ -35,6 +35,7 @@ Curated list of express.js resources
 
 ## Tools
 - [Express application generator](https://expressjs.com/en/starter/generator.html)
+- [Express mvc generator](https://github.com/rajikaimal/express-mvc)
 - [Yeoman express generator - generator-express](https://github.com/petecoop/generator-express)
 
 ## License
