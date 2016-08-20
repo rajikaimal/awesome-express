@@ -1,0 +1,25 @@
+{
+  "name": "awesome-express",
+  "version": "0.9.0",
+  "description": "A curated list of awesome express.js resources",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/awesome-express.git"
+  },
+  "keywords": [
+    "awesome-list",
+    "express"
+  ],
+  "devDependencies": {
+    "awesome-lint": "*"
+  },
+  "author": "rajikaimal",
+  "license": "CCO 1.0",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/awesome-express/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/awesome-express#readme"
+}
