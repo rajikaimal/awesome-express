@@ -40,7 +40,7 @@ Curated list of express.js resources
 - [Yeoman express generator - generator-express](https://github.com/petecoop/generator-express) - a yeoman generator
 
 ## Addons
-- [Kraken.js](http://krakenjs.com/) - kraken is a secure and scalable layer that extends express by providing structure and convention
+- [Kraken.js](http://krakenjs.com) - kraken is a secure and scalable layer that extends express by providing structure and convention
 
 ## License
 
