@@ -39,6 +39,9 @@ Curated list of express.js resources
 - [Express mvc generator](https://github.com/rajikaimal/express-mvc) - modified express generator with MVC architecture
 - [Yeoman express generator - generator-express](https://github.com/petecoop/generator-express) - a yeoman generator
 
+## Addons
+- [Kraken.js](http://krakenjs.com/) - kraken is a secure and scalable layer that extends express by providing structure and convention
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
