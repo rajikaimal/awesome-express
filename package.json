@@ -1,6 +1,6 @@
 {
   "name": "awesome-express",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A curated list of awesome express.js resources",
   "scripts": {
     "test": "awesome-lint"
