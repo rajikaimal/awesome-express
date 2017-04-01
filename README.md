@@ -21,7 +21,6 @@ Curated list of express.js resources
 ## Videos
 - [Tutorial series by Code School](https://www.youtube.com/watch?v=IjXAr5CJ2Ec) - Code School tutorial covering express fundamentals
 - [Tutorial by Derek Banas](https://www.youtube.com/watch?v=xDCKcNBFsuI) - 1 hour tutorial by Derek Banas
-- [Express crash course](https://www.youtube.com/watch?v=aHqnFWLP7wA)
 
 ## Books
 - [Express in Action](https://www.manning.com/books/express-in-action)
