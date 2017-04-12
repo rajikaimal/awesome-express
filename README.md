@@ -32,7 +32,7 @@ Curated list of express.js resources
 ## Courses
 - [ExpressJS fundamentals](https://www.udemy.com/expressjs-fundamentals/) - udemy course with fundamentals of express.js
 - [Projects in ExpressJS - Learn ExpressJs building 10 projects](https://www.udemy.com/projects-in-expressjs-learn-expressjs-building-10-projects/) - hands on tutorial with express.js on udemy
-- [Building blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js)
+- [Building blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js) - free course from Code School
 
 ## Tools
 - [Express application generator](https://expressjs.com/en/starter/generator.html) - a generator to scaffold the basic structure of a express project
