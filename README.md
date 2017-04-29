@@ -43,6 +43,12 @@ Curated list of express.js resources
 - [Expressa](https://github.com/thomas4019/expressa) - express middleware for easily making REST apis
 - [morgan](https://github.com/expressjs/morgan) - log each request
 - [cors](https://github.com/expressjs/cors) - enable CORS
+- [body-parser](https://github.com/expressjs/body-parser) - node.js body parsing middleware
+- [multer](https://github.com/expressjs/multer) - node.js middleware for handling `multipart/form-data`
+- [session](https://github.com/expressjs/session) - simple session middleware for Express
+- [errorhandler](https://github.com/expressjs/errorhandler) - development-only error handler middleware
+- [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
+- [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
 
 ## Addons
 - [Kraken.js](http://krakenjs.com) - kraken is a secure and scalable layer that extends express by providing structure and convention
