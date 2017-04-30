@@ -50,6 +50,9 @@ Curated list of express.js resources
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
 - [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
 
+## Security
+- [Helment.js](https://github.com/rajikaimal/awesome-express) - help secure Express apps with various HTTP headers 
+
 ## Addons
 - [Kraken.js](http://krakenjs.com) - kraken is a secure and scalable layer that extends express by providing structure and convention
 
