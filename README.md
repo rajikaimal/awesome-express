@@ -25,6 +25,8 @@ Curated list of express.js resources
 ## Books
 - [Express in Action](https://www.manning.com/books/express-in-action)
 - [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
+- [Express Web Application Developement](http://shop.oreilly.com/product/9781849696548.do)
+- [Express.js Blueprints](https://www.amazon.com/Express-js-Blueprints-Ben-Augarten-ebook/dp/B00XPMJF1U)
 
 ## Articles
 - [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4) - express routing tutorial
