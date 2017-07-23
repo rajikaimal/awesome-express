@@ -53,6 +53,7 @@ Curated list of express.js resources
 - [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
 
 ## Security
+- [Security best practices](https://expressjs.com/en/advanced/best-practice-security.html) - Production Best Practices: Security
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers 
 
 ## Addons
