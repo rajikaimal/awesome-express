@@ -54,6 +54,7 @@ Curated list of express.js resources
 
 ## Security
 - [Security best practices](https://expressjs.com/en/advanced/best-practice-security.html) - Production Best Practices: Security
+- [Security tips from NodeSource](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) - 9 Security Tips to Keep Express from Getting Pwned
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers 
 
 ## Addons
