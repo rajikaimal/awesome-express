@@ -33,6 +33,7 @@ Curated list of express.js resources
 
 ## Articles
 - [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4) - express routing tutorial
+- [Simple server side cache for Express.js with Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - simple caching for express.js
 
 ## Courses
 - [ExpressJS fundamentals](https://www.udemy.com/expressjs-fundamentals/) - udemy course with fundamentals of express.js
@@ -56,7 +57,7 @@ Curated list of express.js resources
 - [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
 
 ## Security
-- [Security best practices](https://expressjs.com/en/advanced/best-practice-security.html) - Production Best Practices: Security
+- [Security best practices](https://expressjs.com/en/advanced/best-practice-security.html) - production Best Practices: Security
 - [Security tips from NodeSource](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) - 9 Security Tips to Keep Express from Getting Pwned
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers 
 
