@@ -17,12 +17,12 @@ Curated list of express.js resources
 - [Addons](#addons)
 
 ## General
-- [Official website](http://expressjs.com) - Official website for express.js
+- [Official website](http://expressjs.com) - official website for express.js
 - [GitHub repository](https://github.com/expressjs/express) - express.js GitHub repository
 - [Express workshop](https://github.com/azat-co/expressworks) - workshop built on top of [workshopper](https://github.com/workshopper/workshopper)
 
 ## Videos
-- [Tutorial series by Code School](https://www.youtube.com/watch?v=IjXAr5CJ2Ec) - Code School tutorial covering express fundamentals
+- [Tutorial series by Code School](https://www.youtube.com/watch?v=IjXAr5CJ2Ec) - code School tutorial covering express fundamentals
 - [Tutorial by Derek Banas](https://www.youtube.com/watch?v=xDCKcNBFsuI) - 1 hour tutorial by Derek Banas
 
 ## Books
