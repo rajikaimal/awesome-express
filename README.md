@@ -56,6 +56,10 @@ Curated list of express.js resources
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
 - [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
 
+## Microservices
+
+- [ExpressGateway](https://github.com/ExpressGateway/express-gateway) - a microservices API Gateway built on top of ExpressJS
+
 ## Security
 - [Security best practices](https://expressjs.com/en/advanced/best-practice-security.html) - production Best Practices: Security
 - [Security tips from NodeSource](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) - 9 Security Tips to Keep Express from Getting Pwned
