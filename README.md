@@ -56,6 +56,7 @@ Curated list of express.js resources
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
 - [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
 - [Passport](http://www.passportjs.org) - Simple, unobtrusive authentication
+- [Merror](https://github.com/mamsoudi/merror) - A RESTful-friendly Express Middleware for HTTP error handling and error responses
 
 ## Microservices
 
