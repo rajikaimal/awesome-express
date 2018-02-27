@@ -69,6 +69,7 @@ Curated list of express.js resources
 
 ## Addons
 - [Kraken.js](http://krakenjs.com) - kraken is a secure and scalable layer that extends express by providing structure and convention
+- [Curated Resources](https://hackr.io/tutorials/learn-express-js) - programming community curated resources for learning Express.js
 
 ## License
 
