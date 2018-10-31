@@ -67,6 +67,7 @@ Curated list of express.js resources
 - [Security best practices](https://expressjs.com/en/advanced/best-practice-security.html) - production Best Practices: Security
 - [Security tips from NodeSource](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) - 9 Security Tips to Keep Express from Getting Pwned
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers 
+- [protect](https://github.com/RisingStack/protect) - Out-of-box, proactive protection for common security problems, like SQL injection attacks, XSS attacks, brute force, etc
 
 ## Addons
 - [Kraken.js](http://krakenjs.com) - kraken is a secure and scalable layer that extends express by providing structure and convention
