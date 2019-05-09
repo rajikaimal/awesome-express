@@ -45,6 +45,7 @@ Curated list of express.js resources
 - [Express application generator](https://expressjs.com/en/starter/generator.html) - a generator to scaffold the basic structure of a express project
 - [Express mvc generator](https://github.com/rajikaimal/express-mvc) - modified express generator with MVC architecture
 - [Yeoman express generator - generator-express](https://github.com/petecoop/generator-express) - a yeoman generator
+- [MicroTS](https://www.npmjs.com/package/microts) - code generator for microservices in TypeScript
 
 ## Middleware
 - [Expressa](https://github.com/thomas4019/expressa) - express middleware for easily making REST apis
