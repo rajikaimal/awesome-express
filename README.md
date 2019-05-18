@@ -60,6 +60,7 @@ Curated list of express.js resources
 - [Passport](http://www.passportjs.org) - Simple, unobtrusive authentication
 - [Merror](https://github.com/mamsoudi/merror) - A RESTful-friendly Express Middleware for HTTP error handling and error responses
 - [optic-document-express](https://docs.useoptic.com/#/example-fixtures/api-ingestion/node-express) - Document express APIs from your integration tests
+- [stats](https://github.com/phil-r/stats) - Request statistics middleware that stores response times, status code counts, etc
 
 ## Microservices
 
