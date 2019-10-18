@@ -63,6 +63,7 @@ Curated list of express.js resources
 - [optic-document-express](https://docs.useoptic.com/#/example-fixtures/api-ingestion/node-express) - Document express APIs from your integration tests
 - [stats](https://github.com/phil-r/stats) - Request statistics middleware that stores response times, status code counts, etc
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - API Telemetry and APM - Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices
+- [express-routes-catalogue](https://www.npmjs.com/package/express-routes-catalogue) - A simple utility that lists out all registered routes in your express application.
 
 ## Microservices
 
