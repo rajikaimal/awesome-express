@@ -56,6 +56,7 @@ Curated list of express.js resources
 - [body-parser](https://github.com/expressjs/body-parser) - node.js body parsing middleware
 - [multer](https://github.com/expressjs/multer) - node.js middleware for handling `multipart/form-data`
 - [session](https://github.com/expressjs/session) - simple session middleware for Express
+- [compression](https://github.com/expressjs/compression) - compress response bodies for all request that traverse through the middleware
 - [errorhandler](https://github.com/expressjs/errorhandler) - development-only error handler middleware
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
 - [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
@@ -75,6 +76,7 @@ Curated list of express.js resources
 - [Security tips from NodeSource](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/) - 9 Security Tips to Keep Express from Getting Pwned
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers 
 - [protect](https://github.com/RisingStack/protect) - Out-of-box, proactive protection for common security problems, like SQL injection attacks, XSS attacks, brute force, etc
+- [express-sslify](https://github.com/florianheinemann/express-sslify) - Automatically redirects to an HTTPS address
 
 ## Addons
 - [Kraken.js](http://krakenjs.com) - kraken is a secure and scalable layer that extends express by providing structure and convention
