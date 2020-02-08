@@ -57,6 +57,7 @@ Curated list of express.js resources
 - [multer](https://github.com/expressjs/multer) - node.js middleware for handling `multipart/form-data`
 - [session](https://github.com/expressjs/session) - simple session middleware for Express
 - [compression](https://github.com/expressjs/compression) - compress response bodies for all request that traverse through the middleware
+- [express-youch](https://github.com/hmil/express-youch) - Dev-friendly error reporting middleware
 - [errorhandler](https://github.com/expressjs/errorhandler) - development-only error handler middleware
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
 - [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
