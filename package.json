@@ -14,7 +14,7 @@
     "express"
   ],
   "devDependencies": {
-    "awesome-lint": "*"
+    "awesome-lint": ">=0.13.0"
   },
   "author": "rajikaimal",
   "license": "CCO 1.0",
