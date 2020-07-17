@@ -42,6 +42,7 @@ Curated list of express.js resources
 - [Building blocks of Express.js](https://www.codeschool.com/courses/building-blocks-of-express-js) - course from Code School
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
+- [ExpressJS Course From MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a free course from Mozzila Developer's Netowrk
 
 ## Tools
 - [Express application generator](https://expressjs.com/en/starter/generator.html) - a generator to scaffold the basic structure of a express project
