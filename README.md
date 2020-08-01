@@ -72,6 +72,7 @@ Curated list of express.js resources
 - [express-routes-catalogue](https://www.npmjs.com/package/express-routes-catalogue) - A simple utility that lists out all registered routes in your express application.
 - [tweenz](https://github.com/sharkcore/tweenz) - A library for writing Express middleware, inspired by Pyramid tweens.
 - [express-sharp](https://github.com/pmb0/express-sharp) - Real-time image processing for your express application
+- [express-actuator](https://github.com/rcruzper/express-actuator) - Middleware with endpoints to help you monitor and manage applications through healthchecks
 
 ## Microservices
 
