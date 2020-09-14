@@ -35,6 +35,7 @@ Curated list of express.js resources
 ## Articles
 - [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4) - express routing tutorial
 - [Simple server side cache for Express.js with Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - simple caching for express.js
+- [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
 
 ## Courses
 - [ExpressJS fundamentals](https://www.udemy.com/expressjs-fundamentals/) - udemy course with fundamentals of express.js
