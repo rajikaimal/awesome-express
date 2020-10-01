@@ -37,6 +37,7 @@ Curated list of express.js resources
 - [Simple server side cache for Express.js with Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - simple caching for express.js
 - [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/) 
+- [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/)
 
 ## Courses
 - [ExpressJS fundamentals](https://www.udemy.com/expressjs-fundamentals/) - udemy course with fundamentals of express.js
