@@ -38,7 +38,7 @@ Curated list of express.js resources
 - [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
 - [Facebook Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/facebook-authentication-using-node-and-passport/)
-- [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/)
+- [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/) - Tutorial to build chat bot for express.js
 
 ## Courses
 - [ExpressJS fundamentals](https://www.udemy.com/expressjs-fundamentals/) - udemy course with fundamentals of express.js
