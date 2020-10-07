@@ -39,8 +39,9 @@ Curated list of express.js resources
 - [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4) - express routing tutorial
 - [Simple server side cache for Express.js with Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - simple caching for express.js
 - [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
-- [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
-- [Facebook Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/facebook-authentication-using-node-and-passport/)
+- [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/) - Implement "log in with LinkedIn" tutorial
+- [Facebook Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/facebook-authentication-using-node-and-passport/) - Implement "log in with Facebook" tutorial
+- [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/) - Tutorial to build chat bot for express.js
 
 ## Courses
 
