@@ -42,6 +42,7 @@ Curated list of express.js resources
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/) - Implement "log in with LinkedIn" tutorial
 - [Facebook Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/facebook-authentication-using-node-and-passport/) - Implement "log in with Facebook" tutorial
 - [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/) - Tutorial to build chat bot for express.js
+- [OAuth implementation with Node.js and Github](https://www.loginradius.com/engineering/blog/oAuth-implemenation-using-node/) - Tutorial for implementing oAuth using NodeJS and express
 
 ## Courses
 
