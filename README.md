@@ -42,7 +42,7 @@ Curated list of express.js resources
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/) - Implement "log in with LinkedIn" tutorial
 - [Facebook Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/facebook-authentication-using-node-and-passport/) - Implement "log in with Facebook" tutorial
 - [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/) - Tutorial to build chat bot for express.js
-- [OAuth implementation with Node.js and Github](https://www.loginradius.com/engineering/blog/oAuth-implemenation-using-node/) - Tutorial for implementing oAuth using NodeJS and express
+- [OAuth implementation with Node.js and Github](https://www.loginradius.com/engineering/blog/oAuth-implemenation-using-node/) - Tutorial for implementing oAuth using Node.js and express
 
 ## Courses
 
@@ -69,14 +69,14 @@ Curated list of express.js resources
 - [Expressa](https://github.com/thomas4019/expressa) - express middleware for easily making REST apis
 - [morgan](https://github.com/expressjs/morgan) - log each request
 - [cors](https://github.com/expressjs/cors) - enable CORS
-- [body-parser](https://github.com/expressjs/body-parser) - node.js body parsing middleware
-- [multer](https://github.com/expressjs/multer) - node.js middleware for handling `multipart/form-data`
+- [body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
+- [multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`
 - [session](https://github.com/expressjs/session) - simple session middleware for Express
 - [compression](https://github.com/expressjs/compression) - compress response bodies for all request that traverse through the middleware
 - [express-youch](https://github.com/hmil/express-youch) - Dev-friendly error reporting middleware
 - [errorhandler](https://github.com/expressjs/errorhandler) - development-only error handler middleware
 - [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon serving middleware
-- [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
+- [csurf](https://github.com/expressjs/csurf) - Node.js CSRF protection middleware
 - [Passport](http://www.passportjs.org) - Simple, unobtrusive authentication
 - [Merror](https://github.com/mamsoudi/merror) - A RESTful-friendly Express Middleware for HTTP error handling and error responses
 - [optic-document-express](https://docs.useoptic.com/#/example-fixtures/api-ingestion/node-express) - Document express APIs from your integration tests
@@ -86,7 +86,7 @@ Curated list of express.js resources
 - [tweenz](https://github.com/sharkcore/tweenz) - A library for writing Express middleware, inspired by Pyramid tweens.
 - [express-sharp](https://github.com/pmb0/express-sharp) - Real-time image processing for your express application
 - [express-actuator](https://github.com/rcruzper/express-actuator) - Middleware with endpoints to help you monitor and manage applications through healthchecks
-- [express-decorator-router](https://github.com/LucasMendesl/express-decorator-router) - Use decorators in a simple way without transpiling javascript code
+- [express-decorator-router](https://github.com/LucasMendesl/express-decorator-router) - Use decorators in a simple way without transpiling Javascript code
 
 ## Microservices
 
