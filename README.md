@@ -87,6 +87,7 @@ Curated list of express.js resources
 - [express-sharp](https://github.com/pmb0/express-sharp) - Real-time image processing for your express application
 - [express-actuator](https://github.com/rcruzper/express-actuator) - Middleware with endpoints to help you monitor and manage applications through healthchecks
 - [express-decorator-router](https://github.com/LucasMendesl/express-decorator-router) - Use decorators in a simple way without transpiling Javascript code
+- [sonic-express](https://github.com/Tiemma/sonic-express) - Automate generating swagger docs for your API endpoints without writing any docs
 
 ## Microservices
 
