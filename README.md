@@ -89,6 +89,7 @@ Curated list of express.js resources
 - [express-decorator-router](https://github.com/LucasMendesl/express-decorator-router) - Use decorators in a simple way without transpiling Javascript code
 - [sonic-express](https://github.com/Tiemma/sonic-express) - Automate generating swagger docs for your API endpoints without writing any docs
 - [express-pino-logger](https://github.com/pinojs/express-pino-logger) - Use the fast, low overhead Pino logger to log each request.
+- [express-validator](https://github.com/express-validator/express-validator) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
 
 ## Microservices
 
