@@ -14,6 +14,7 @@ Curated list of express.js resources
 - [Tools](#tools)
 - [Middleware](#middleware)
 - [Security](#security)
+- [Boilerplate](#boilerplate)
 - [Addons](#addons)
 
 ## General
