@@ -14,6 +14,7 @@ Curated list of express.js resources
 - [Tools](#tools)
 - [Middleware](#middleware)
 - [Security](#security)
+- [Boilerplate](#boilerplate)
 - [Addons](#addons)
 
 ## General
@@ -104,6 +105,11 @@ Curated list of express.js resources
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers
 - [protect](https://github.com/RisingStack/protect) - Out-of-box, proactive protection for common security problems, like SQL injection attacks, XSS attacks, brute force, etc
 - [express-sslify](https://github.com/florianheinemann/express-sslify) - Automatically redirects to an HTTPS address
+
+## Boilerplate
+
+- [TypeORM Express TypeScript](https://github.com/mkosir/typeorm-express-typescript) - Minimal Express RESTful API boilerplate. Spin it up with single command. TypeScript, TypeORM, Postgres and Docker with focus on best practices and painless developer experience.
+- [ZentinelJS](https://github.com/surelle-ha/ZentinelJS) - Structured to mirror the Laravel directory format for a familiar setup. It includes commands called 'Zentinel CLI' for efficient backend operations and seamless integration.
 
 ## Addons
 
