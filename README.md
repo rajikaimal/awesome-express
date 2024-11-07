@@ -93,6 +93,10 @@ Curated list of express.js resources
 - [express-validator](https://github.com/express-validator/express-validator) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
 - [express-response-hooks](https://github.com/arikw/express-response-hooks) - Intercept and mutate responses before they are sent to the client
 
+## Monitoring
+
+- [apitally](https://github.com/apitally/apitally-js) - Client library for [Apitally](https://apitally.io/express), a simple API monitoring & analytics tool with alerting for Express.
+
 ## Microservices
 
 - [ExpressGateway](https://github.com/ExpressGateway/express-gateway) - a microservices API Gateway built on top of ExpressJS
