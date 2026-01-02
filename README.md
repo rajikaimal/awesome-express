@@ -109,6 +109,10 @@ Curated list of express.js resources
 - [protect](https://github.com/RisingStack/protect) - Out-of-box, proactive protection for common security problems, like SQL injection attacks, XSS attacks, brute force, etc
 - [express-sslify](https://github.com/florianheinemann/express-sslify) - Automatically redirects to an HTTPS address
 
+## API Integrations
+
+- [Vedika API](https://vedika.io) - Vedic astrology API with AI-powered chatbot, 108+ endpoints for horoscopes, kundali, dasha, panchang, and compatibility. Built on Express with multi-language support.
+
 ## Addons
 
 - [Kraken.js](http://krakenjs.com) - kraken is a secure and scalable layer that extends express by providing structure and convention
