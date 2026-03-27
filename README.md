@@ -72,6 +72,7 @@ Curated list of express.js resources
 - [cors](https://github.com/expressjs/cors) - enable CORS
 - [body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
 - [multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`
+- [pushduck](https://github.com/abhay-ramesh/pushduck) - Type-safe S3 file upload library for Express with presigned URLs and edge runtime support
 - [session](https://github.com/expressjs/session) - simple session middleware for Express
 - [compression](https://github.com/expressjs/compression) - compress response bodies for all request that traverse through the middleware
 - [express-youch](https://github.com/hmil/express-youch) - Dev-friendly error reporting middleware
