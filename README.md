@@ -4,6 +4,7 @@
 
 Curated list of express.js resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Express.js workflow orchestration, automated Node.js API management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [General](#general)
