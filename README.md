@@ -7,6 +7,7 @@ Curated list of express.js resources
 ## Contents
 
 - [General](#general)
+- [Alternative implementations](#alternative-implementations)
 - [Videos](#videos)
 - [Books](#books)
 - [Articles](#articles)
@@ -21,6 +22,10 @@ Curated list of express.js resources
 - [Official website](http://expressjs.com) - official website for express.js
 - [GitHub repository](https://github.com/expressjs/express) - express.js GitHub repository
 - [Express workshop](https://github.com/azat-co/expressworks) - workshop built on top of [workshopper](https://github.com/workshopper/workshopper)
+
+## Alternative implementations
+
+- [Fulmine](https://github.com/nigrosimone/fulmine.js) - Drop-in replacement on µWebSockets.js that runs the same routes, middleware and template engines.
 
 ## Videos
 
