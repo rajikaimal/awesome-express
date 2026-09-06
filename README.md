@@ -14,6 +14,7 @@ Curated list of express.js resources
 - [Courses](#courses)
 - [Tools](#tools)
 - [Middleware](#middleware)
+- [Dependency Injection](#dependency-injection)
 - [Security](#security)
 - [Addons](#addons)
 
@@ -97,6 +98,10 @@ Curated list of express.js resources
 - [express-pino-logger](https://github.com/pinojs/express-pino-logger) - Use the fast, low overhead Pino logger to log each request.
 - [express-validator](https://github.com/express-validator/express-validator) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
 - [express-response-hooks](https://github.com/arikw/express-response-hooks) - Intercept and mutate responses before they are sent to the client
+
+## Dependency Injection
+
+- [InferDI](https://github.com/inferdi/inferdi/tree/main/packages/express) - Adapter for a strictly typed dependency injection container with per-request scope management.
 
 ## Monitoring
 
