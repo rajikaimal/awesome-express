@@ -101,6 +101,7 @@ Curated list of express.js resources
 ## Monitoring
 
 - [apitally](https://github.com/apitally/apitally-js) - Client library for [Apitally](https://apitally.io/express), a simple API monitoring & analytics tool with alerting for Express.
+- [api-performance-profiler](https://github.com/Nahid625/api-performance-profiler) - Local-first API performance profiler with real-time route latency, request recording, and load testing directly inside VS Code.
 
 ## Microservices
 
