@@ -25,7 +25,7 @@ Curated list of express.js resources
 
 ## Alternative implementations
 
-- [Fulmine](https://github.com/nigrosimone/fulmine.js) - Drop-in replacement on µWebSockets.js that runs the same routes, middleware and template engines.
+- [fulmine.js](https://github.com/nigrosimone/fulmine.js) - Drop-in replacement on µWebSockets.js that runs the same routes, middleware and template engines.
 
 ## Videos
 
