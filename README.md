@@ -69,6 +69,7 @@ Curated list of express.js resources
 - [MicroTS](https://www.npmjs.com/package/microts) - code generator for microservices in TypeScript
 - [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST api templating engine for Typescript
 - [Express Interactive ES6+ generator](https://github.com/eklemen/generate-express) - A generator with ES6+ support, interactive CLI and db configurations to scaffold the project.
+- [Keploy](https://github.com/keploy/keploy) - Generates integration tests from real traffic and mocks Mongo, Postgres, and outbound HTTP calls.
 
 ## Middleware
 
