@@ -113,6 +113,7 @@ Curated list of express.js resources
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers
 - [protect](https://github.com/RisingStack/protect) - Out-of-box, proactive protection for common security problems, like SQL injection attacks, XSS attacks, brute force, etc
 - [express-sslify](https://github.com/florianheinemann/express-sslify) - Automatically redirects to an HTTPS address
+- [@guardcore/express](https://github.com/Guard-Core/guard-core-ts/tree/master/packages/express) - Security middleware with IP allow and deny lists, rate limiting with automatic bans and penetration attempt detection.
 
 ## Addons
 
