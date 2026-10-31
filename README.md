@@ -97,6 +97,7 @@ Curated list of express.js resources
 - [express-pino-logger](https://github.com/pinojs/express-pino-logger) - Use the fast, low overhead Pino logger to log each request.
 - [express-validator](https://github.com/express-validator/express-validator) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
 - [express-response-hooks](https://github.com/arikw/express-response-hooks) - Intercept and mutate responses before they are sent to the client
+- [@usagerail/node](https://github.com/usagerail/sdk) - Checks API keys, per-customer rate limits and quotas, and meters usage for billing with [UsageRail](https://usagerail.com/docs/express).
 
 ## Monitoring
 
