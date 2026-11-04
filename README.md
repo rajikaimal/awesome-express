@@ -54,7 +54,7 @@ Curated list of express.js resources
 
 - [express.js fundamentals](https://www.udemy.com/expressjs-fundamentals/) - udemy course with fundamentals of express.js
 - [Projects in ExpressJS - Learn ExpressJs building 10 projects](https://www.udemy.com/projects-in-expressjs-learn-expressjs-building-10-projects/) - hands on tutorial with express.js on udemy
-- [Building blocks of express.js](https://www.codeschool.com/courses/building-blocks-of-express-js) - course from Code School
+- [Coddy Node.js course](https://coddy.tech/landing/nodejs) - Interactive course with server projects that run in the browser.
 - [Curated Express.js Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [express.js Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [express.js Course From MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a free course from Mozzila Developer's Netowrk
