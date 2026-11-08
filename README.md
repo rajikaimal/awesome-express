@@ -101,6 +101,7 @@ Curated list of express.js resources
 ## Monitoring
 
 - [apitally](https://github.com/apitally/apitally-js) - Client library for [Apitally](https://apitally.io/express), a simple API monitoring & analytics tool with alerting for Express.
+- [@logbrew/express](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-express) - Catch errors and slow requests in production and see the logs behind each one in LogBrew.
 
 ## Microservices
 
