@@ -113,6 +113,7 @@ Curated list of express.js resources
 - [Helmet.js](https://github.com/helmetjs/helmet) - help secure Express apps with various HTTP headers
 - [protect](https://github.com/RisingStack/protect) - Out-of-box, proactive protection for common security problems, like SQL injection attacks, XSS attacks, brute force, etc
 - [express-sslify](https://github.com/florianheinemann/express-sslify) - Automatically redirects to an HTTPS address
+- [WebDecoy](https://github.com/WebDecoy/node/tree/main/packages/express) - Bot detection middleware with local honeypot tripwires, rate limiting and optional dashboard reporting.
 
 ## Addons
 
