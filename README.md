@@ -39,9 +39,11 @@ Curated list of express.js resources
 - [Express Web Application Developement](http://shop.oreilly.com/product/9781849696548.do)
 - [Express.js Blueprints](https://www.amazon.com/Express-js-Blueprints-Ben-Augarten-ebook/dp/B00XPMJF1U)
 
-## Articles- [Simple server side cache for Express.js with Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - simple caching for express.js
+## Articles
+
+- [Simple server side cache for Express.js with Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - simple caching for express.js
 - [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
-- [LinkedIn Login using N[](url)ode JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/) - Implement "log in with LinkedIn" tutorial
+- [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/) - Implement "log in with LinkedIn" tutorial
 - [Facebook Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/facebook-authentication-using-node-and-passport/) - Implement "log in with Facebook" tutorial
 - [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/) - Tutorial to build chat bot for express.js
 - [OAuth implementation with Node.js and Github](https://www.loginradius.com/engineering/blog/oAuth-implemenation-using-node/) - Tutorial for implementing oAuth using Node.js and express
@@ -55,6 +57,7 @@ Curated list of express.js resources
 - [Curated Express.js Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [express.js Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [express.js Course From MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a free course from Mozzila Developer's Netowrk
+- [Just Express (with a bunch of node and http). In detail.](https://www.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/) - udemy course that covers in-depth details of express.js
 - [Learn Express](https://www.udemy.com/course/learn-express/) - udemy course that covers fundamentals of express.js
 
 ## Tools
@@ -84,6 +87,7 @@ Curated list of express.js resources
 - [stats](https://github.com/phil-r/stats) - Request statistics middleware that stores response times, status code counts, etc
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - API Telemetry and APM - Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices
 - [express-routes-catalogue](https://www.npmjs.com/package/express-routes-catalogue) - A simple utility that lists out all registered routes in your express application.
+- [tweenz](https://github.com/sharkcore/tweenz) - A library for writing Express middleware, inspired by Pyramid tweens.
 - [express-sharp](https://github.com/pmb0/express-sharp) - Real-time image processing for your express application
 - [express-actuator](https://github.com/rcruzper/express-actuator) - Middleware with endpoints to help you monitor and manage applications through healthchecks
 - [express-decorator-router](https://github.com/LucasMendesl/express-decorator-router) - Use decorators in a simple way without transpiling Javascript code
