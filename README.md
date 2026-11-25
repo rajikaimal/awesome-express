@@ -41,7 +41,6 @@ Curated list of express.js resources
 
 ## Articles
 
-- [Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4) - express routing tutorial
 - [Simple server side cache for Express.js with Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - simple caching for express.js
 - [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/) - Implement "log in with LinkedIn" tutorial
@@ -49,12 +48,12 @@ Curated list of express.js resources
 - [Creating a Google Hangout Bot with Express and Node.js](https://www.loginradius.com/engineering/blog/creating-a-google-hangout-bot-with-express-and-node-js/) - Tutorial to build chat bot for express.js
 - [OAuth implementation with Node.js and Github](https://www.loginradius.com/engineering/blog/oAuth-implemenation-using-node/) - Tutorial for implementing oAuth using Node.js and express
 - [Express integration with TW Elements](https://tw-elements.com/docs/standard/integrations/express-integration/) -  Article that shows you how to integrate Express with Tailwind
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ## Courses
 
 - [express.js fundamentals](https://www.udemy.com/expressjs-fundamentals/) - udemy course with fundamentals of express.js
 - [Projects in ExpressJS - Learn ExpressJs building 10 projects](https://www.udemy.com/projects-in-expressjs-learn-expressjs-building-10-projects/) - hands on tutorial with express.js on udemy
-- [Building blocks of express.js](https://www.codeschool.com/courses/building-blocks-of-express-js) - course from Code School
 - [Curated Express.js Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [express.js Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [express.js Course From MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a free course from Mozzila Developer's Netowrk
@@ -85,7 +84,6 @@ Curated list of express.js resources
 - [csurf](https://github.com/expressjs/csurf) - Node.js CSRF protection middleware
 - [Passport](http://www.passportjs.org) - Simple, unobtrusive authentication
 - [Merror](https://github.com/mamsoudi/merror) - A RESTful-friendly Express Middleware for HTTP error handling and error responses
-- [optic-document-express](https://docs.useoptic.com/#/example-fixtures/api-ingestion/node-express) - Document express APIs from your integration tests
 - [stats](https://github.com/phil-r/stats) - Request statistics middleware that stores response times, status code counts, etc
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - API Telemetry and APM - Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices
 - [express-routes-catalogue](https://www.npmjs.com/package/express-routes-catalogue) - A simple utility that lists out all registered routes in your express application.
